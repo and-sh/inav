@@ -2,7 +2,7 @@ include(gcc)
 set(arm_none_eabi_triplet "arm-none-eabi")
 
 # Keep version in sync with the distribution files below
-set(arm_none_eabi_gcc_version "13.2.1")
+set(arm_none_eabi_gcc_version "13.3.1")
 # This is the output directory "pretty" name and URI name prefix
 set(base_dir_name "arm-gnu-toolchain-13.2.rel1")
 # This is the name inside the archive, which is no longer evincible from URI, alas

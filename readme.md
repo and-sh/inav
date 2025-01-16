@@ -13,3 +13,5 @@ https://github.com/iNavFlight/inav/issues/10520
 Planed
 
 https://github.com/iNavFlight/inav/issues/10487
+
+Temperature dependence of baro
